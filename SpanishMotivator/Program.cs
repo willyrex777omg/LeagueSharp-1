@@ -78,18 +78,16 @@ namespace DSTMotivator
             Starts = new List<string>
             {
                 "",
-                "oh, ", "oh ",
-                "that was ", 
-                "wow ", 
-                "wow, "
+                "Prepar Sus anos    
+                "kappa  
+                "Noobs
+                "a darle duro
             };
 
             Endings = new List<string>
             {
                 "",
-                " m8", " mate",
-                " team",  " guys", " friends",
-                " friend"
+                " GG EASY
             };
 
             Smileys = new List<string>
@@ -104,10 +102,10 @@ namespace DSTMotivator
 
             Greetings = new List<string>
             {
-                "gl", "good luck",
-                "hf", "have fun",
+                "gl", "hijo de puta",
+                "hf", "Tienes mas surte puto culo que tienes",
                 "gl hf", "gl and hf", "gl & hf",
-                "Good Luck, Have Fun",
+                "Gracias Por nada",
                 "Let's all have a nice game!",
                 "Good Luck & Have Fun"
             };
